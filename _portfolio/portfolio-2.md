@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/chb101.png'>"
+title: "Computer Hardware Basics"
+excerpt: "Cisco verifies the earner of this badge successfully completed the Computer Hardware Basics course and achieved this student level credential. Earner has fundamentals knowledge of computers and mobile devices, how they work, as well as the basic concepts and skills needed to install components to build, repair, upgrade personal computers and and basic troubleshooting tools and techniques.<br/><img src='/images/chb101.png'>"
 collection: portfolio
 ---
 
